@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Generator for HolidayCheck Widgets\n"
+"POT-Creation-Date: 2015-11-09 09:01+0100\n"
+"PO-Revision-Date: 2015-11-09 09:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: generator-for-hc-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: generator-for-hc-widgets.php:18
+msgid "Generator for HolidayCheck Widgets"
+msgstr ""
+
+#: generator-for-hc-widgets.php:53
+msgid "Title:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:57
+msgid "HolidayCheck-Url of your hotel: "
+msgstr ""
+
+#: generator-for-hc-widgets.php:58
+msgid "The URL is not working, something went wrong."
+msgstr ""
+
+#: generator-for-hc-widgets.php:62
+msgid "Language:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:82
+msgid "Widget type:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:84
+msgid "Recommendation rate"
+msgstr ""
+
+#: generator-for-hc-widgets.php:86
+msgid "Good review(s) with rating"
+msgstr ""
+
+#: generator-for-hc-widgets.php:88
+msgid "Good review(s) without rating"
+msgstr ""
+
+#: generator-for-hc-widgets.php:91
+msgid "Widget size:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:93
+msgid "Small (150px wide)"
+msgstr ""
+
+#: generator-for-hc-widgets.php:95
+msgid "Medium (300px wide)"
+msgstr ""
+
+#: generator-for-hc-widgets.php:97
+msgid "Large (600px wide)"
+msgstr ""
+
+#: generator-for-hc-widgets.php:99
+msgid "Number of reviews (not working on \"small\"):"
+msgstr ""
+
+#: generator-for-hc-widgets.php:107
+msgid "Colour theme:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:109
+msgid "Blue"
+msgstr ""
+
+#: generator-for-hc-widgets.php:111
+msgid "Grey"
+msgstr ""
+
+#: generator-for-hc-widgets.php:113
+msgid "White"
+msgstr ""
+
+#: generator-for-hc-widgets.php:116
+msgid "Show \"Review now\"-button:"
+msgstr ""
+
+#: generator-for-hc-widgets.php:118
+msgid "Yes"
+msgstr ""
+
+#: generator-for-hc-widgets.php:120
+msgid "No"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://booking-calendar-plugin.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Generating HolidayCheck Widgets as WordPress Widgets."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Advanced Booking Calendar"
+msgstr ""
